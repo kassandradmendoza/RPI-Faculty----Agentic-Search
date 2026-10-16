@@ -30,10 +30,7 @@
 2. **Branches**
     - The *Main Branch* is the public-facing branch of the project and is the base of the project for all team members. It is the expected practice to not publish your changes directly to this branch.
     - *Creating Your Own Branch:* Each developer on the project will create their own branch. While you are still in the development and debugging process, you will push all your updates here. When you are sure that your work is ready, you can *merge* your branch with the *main branch* and this will be approved by the owner or designated team members. 
-      - Steps to create your own branch in VS Code:
-<<<<<<< Updated upstream
-=======
-        - Navigate to the option described in the image below
+      - Steps to create your own branch in VS Code:- Navigate to the option described in the image below
         - Once there, it will give you the option to name the branch, give it a name that identifies that it is yours.
        - Press Enter. VS Code creates the branch and switches to it automatically. You can confirm by checking the branch name in the bottom-left corner of VS Code.
   ![alt text](image.png)
@@ -127,5 +124,3 @@
 - *"git is not recognized" / "git not found":* Git is not installed or VS Code needs a restart after installing it.
 - *Clone fails or hangs:* Check your internet connection and make sure the URL was copied completely, including the repository name's multiple dashes (`RPI-Faculty----Agentic-Search`).
 - *Folder already exists:* Choose a different destination folder or rename the existing one.
->>>>>>> Stashed changes
-
