@@ -128,3 +128,4 @@
 - *Clone fails or hangs:* Check your internet connection and make sure the URL was copied completely, including the repository name's multiple dashes (`RPI-Faculty----Agentic-Search`).
 - *Folder already exists:* Choose a different destination folder or rename the existing one.
 >>>>>>> Stashed changes
+
