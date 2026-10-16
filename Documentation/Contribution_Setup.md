@@ -16,3 +16,4 @@
     - The *Main Branch* is the public-facing branch of the project and is the base of the project for all team members. It is the expected practice to not publish your changes directly to this branch.
     - *Creating Your Own Branch:* Each developer on the project will create their own branch. While you are still in the development and debugging process, you will push all your updates here. When you are sure that your work is ready, you can *merge* your branch with the *main branch* and this will be approved by the owner or designated team members. 
       - Steps to create your own branch in VS Code:
+      - test
